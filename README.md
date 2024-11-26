@@ -1,5 +1,7 @@
 # Quantum Wave Consciousness System
 
+https://www.youtube.com/watch?v=TaDmo2tT-qU
+
 A experimental system exploring quantum field effects through wave-based neural networks and sound interaction.
 
 # Overview
